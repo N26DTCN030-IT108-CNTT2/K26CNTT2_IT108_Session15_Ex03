@@ -1,6 +1,5 @@
 # BÁO CÁO THIẾT LẬP KHÔNG GIANG CỘNG TÁC DOANH NGHIỆP (ENTERPRISE WORKSPACE)
 > **Dự án:** Bãi Đỗ Xe Thông Minh (Smart Parking System)  
-> **Repository:** `[Tên Lớp]_[Môn Học]_Session16_Ex03`
 
 ---
 
